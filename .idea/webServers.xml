@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76e6570f-4c71-404e-8ed2-508fae9b28aa" name="puzzle" url="http://puzzle.sci.csueastbay.edu/~dj8729">
+        <fileTransfer host="puzzle.sci.csueastbay.edu" port="22" rootFolder="/home/students/16wi/dj8729" accessType="SFTP" username="dj8729">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
